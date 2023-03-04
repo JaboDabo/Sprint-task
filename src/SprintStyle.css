@@ -1,0 +1,73 @@
+.header{
+background-color: #960d0d;
+color: white;
+display: flex;
+justify-content: space-between;
+padding: 0 20px 0 20px;
+margin: 20px 20px 20px 20xp;
+}
+.title{
+text-transform: uppercase;
+}
+.links{
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 25%;
+
+}
+.links a{
+text-decoration: none;
+color: white;
+}
+.bignews{
+margin: 20px 0px 20px 0px;
+display: flex;
+background-color: #a6ddcc;
+
+
+
+}
+.suret{
+width: 90%;
+margin: 20px 0px 15px 20px;
+
+}
+.texttar{
+width:150%;
+font-weight: 100;
+}
+.latenews{
+text-align: center;
+margin: 20px 0px 20px 0px;
+}
+.kazh img{
+width:345px;
+height: 200px;
+
+}
+.songy{
+display: flex;
+}
+
+.kazh{
+border: 1px solid gray;
+
+margin-right: 10px;
+}
+.btn{
+margin-left: 10px;
+background-color:#990000;
+color: white;
+width: 25%;
+height: 8%;
+border: none;
+
+}
+.kazh p{
+margin-left: 10px;
+}
+.kazh h4{
+margin-left: 10px;
+}
+
